@@ -1,3 +1,5 @@
+/* FCFS - First Come First Serve a */
+
 #include <stdio.h>
 
 int main()

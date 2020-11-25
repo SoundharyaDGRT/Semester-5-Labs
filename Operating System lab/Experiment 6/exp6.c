@@ -1,3 +1,5 @@
+/* Producer Consumer problem */
+
 #include <stdio.h>
 int mutex = 1, full = 0, empty = 3, x = 0;
 int main()

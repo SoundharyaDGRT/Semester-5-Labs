@@ -1,3 +1,5 @@
+/* Dining philosopher problem */
+
 #include <stdio.h>
 #define LEFT (i + 4) % 5
 #define RIGHT (i + i) % 5

@@ -1,3 +1,5 @@
+/* Bankers Algorithm */
+
 #include <stdio.h>
 
 int main()
