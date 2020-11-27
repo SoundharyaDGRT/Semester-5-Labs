@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Image Mapping</title>
+    <style>
+        body {
+            background-color: #7ee8fa;
+            background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
+
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>Image Mapping</h2>
+    <p>Click on the picture and read more...</p>
+
+    <img src="https://tse3.mm.bing.net/th?id=OIP.elFt0X7KOWjRKiLaFJdUswHaFj&pid=Api&P=0&w=207&h=156" alt="Workplace"
+        usemap="#workmap" width="400" height="379">
+
+    <map name="workmap">
+        <area shape="circle" coords="101,114,44" alt="sea" href="https://en.wikipedia.org/wiki/Sea">
+        <area shape="rect" coords="290,172,333,250" alt="tree" href=" https://en.wikipedia.org/wiki/Tree">
+        <area shape="poly" coords="223,154,171,204,171,256,221,281,271,256,273,204" alt="nature"
+            href="https://en.wikipedia.org/wiki/Nature">
+    </map>
+
+</body>
+
+</html>
