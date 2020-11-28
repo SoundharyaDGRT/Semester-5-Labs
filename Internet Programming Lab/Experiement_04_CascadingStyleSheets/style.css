@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(16, 36, 39);
+}
+.main {
+    text-align:center;   
+}
+.GFG {
+    color:royalblue;
+    font-size:50px;
+    font-weight:bold;
+}
+#geeks {
+    font-style:bold;
+    font-size:20px;
+}
+h3{
+    color: aqua;
+}
