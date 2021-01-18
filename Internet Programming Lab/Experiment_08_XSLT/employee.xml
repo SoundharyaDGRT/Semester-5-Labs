@@ -14,21 +14,21 @@
       <salary>36000</salary>  
    </employee>   
    <employee id = "003">   
-      <firstname>gabreella</firstname>   
-      <lastname>charlton</lastname>   
-      <nickname>Jobi</nickname>   
+      <firstname>arjun</firstname>   
+      <lastname>nithi</lastname>   
+      <nickname>arju</nickname>   
       <salary>10000</salary>   
    </employee> 
 <employee id = "004">   
-      <firstname>nisha</firstname>   
-      <lastname>aranthagi</lastname>   
+      <firstname>geetha</firstname>   
+      <lastname>lakshmi</lastname>   
       <nickname>nishu</nickname>   
       <salary>17000</salary>   
    </employee> 
   <employee id = "005">   
-      <firstname>archana</firstname>   
-      <lastname>vj</lastname>   
-      <nickname>archu</nickname>   
+      <firstname>divya</firstname>   
+      <lastname>prabha</lastname>   
+      <nickname>divi</nickname>   
       <salary>9000</salary>   
    </employee> 
 <employee id = "006">   
