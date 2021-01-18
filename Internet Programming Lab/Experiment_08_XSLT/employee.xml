@@ -1,0 +1,64 @@
+<?xml version = "1.0"?>  
+<?xml-stylesheet type = "text/xsl" href = "employee.xsl"?>   
+<class>   
+   <employee id = "001">  
+      <firstname>ajith</firstname>   
+      <lastname>khalique</lastname>   
+      <nickname>Aju</nickname>   
+      <salary>30000</salary>  
+   </employee>   
+   <employee id = "002">   
+      <firstname>Rio</firstname>   
+      <lastname>Raj</lastname>   
+      <nickname>Drio</nickname>   
+      <salary>36000</salary>  
+   </employee>   
+   <employee id = "003">   
+      <firstname>gabreella</firstname>   
+      <lastname>charlton</lastname>   
+      <nickname>Jobi</nickname>   
+      <salary>10000</salary>   
+   </employee> 
+<employee id = "004">   
+      <firstname>nisha</firstname>   
+      <lastname>aranthagi</lastname>   
+      <nickname>nishu</nickname>   
+      <salary>17000</salary>   
+   </employee> 
+  <employee id = "005">   
+      <firstname>archana</firstname>   
+      <lastname>vj</lastname>   
+      <nickname>archu</nickname>   
+      <salary>9000</salary>   
+   </employee> 
+<employee id = "006">   
+      <firstname>Soundharya</firstname>   
+      <lastname>Srinivasan</lastname>   
+      <nickname>Sound</nickname>   
+      <salary>40000</salary>
+</employee>
+<employee id = "007">   
+      <firstname>chitra</firstname>   
+      <lastname>kamaraj</lastname>   
+      <nickname>chithu</nickname>   
+      <salary>39000</salary>
+</employee>
+<employee id = "008">   
+      <firstname>Kavin</firstname>   
+      <lastname>Raj</lastname>   
+      <nickname>kavi</nickname>   
+      <salary>35000</salary>
+</employee>
+<employee id = "009">   
+      <firstname>shivani</firstname>   
+      <lastname>nayar</lastname>   
+      <nickname>shibu</nickname>   
+      <salary>5900</salary>
+</employee>
+<employee id = "010">   
+      <firstname>arrie</firstname>   
+      <lastname>arjunan</lastname>   
+      <nickname>Aru</nickname>   
+      <salary>31000</salary>
+</employee>
+</class>
